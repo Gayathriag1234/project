@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 1295-7072
+
+ Directory of C:\Users\My computer\Desktop\sdjfhdsfj
+
+03/26/2019  11:30 AM    <DIR>          .
+03/26/2019  11:30 AM    <DIR>          ..
+03/26/2019  11:30 AM                 0 one.txt
+               1 File(s)              0 bytes
+               2 Dir(s)   1,429,684,224 bytes free
